@@ -1,3 +1,3 @@
 # AllMyWorkIsGonnaBeHere
 
-So anyway this will be like a collection of all my programs . Feel free to explore.
+So anyway this will be like a collection of all my programs . Feel free to explore. This contains various programs and whatnot. I hope you can find this useful....
